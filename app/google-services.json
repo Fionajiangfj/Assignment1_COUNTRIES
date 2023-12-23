@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797082112261",
+    "project_id": "countries-yan",
+    "storage_bucket": "countries-yan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797082112261:android:c9ef1944d97b93f5c8a76c",
+        "android_client_info": {
+          "package_name": "com.yj.countries_yan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWIEdd_W2fl5-atIwpqsoYO3L0scvBwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
