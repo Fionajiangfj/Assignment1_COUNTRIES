@@ -4,8 +4,8 @@
 **Description:**
 
 An Android application that displays information about countries of the world.
-	1. List of World Countries Screen: This screen displays a list of countries
-	2. Favorite Country List Screen: This screen displays a list of countries that the user added as favorite
+        1. List of World Countries Screen: This screen displays a list of countries
+        2. Favorite Country List Screen: This screen displays a list of countries that the user added as favorite
     
 **Screen 1: List of World Countries**
 	1. This screen displays a list of countries in a RecyclerView.
