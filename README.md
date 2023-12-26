@@ -27,3 +27,7 @@ An Android application that displays information about countries of the world.
 **Screen2**
 
 ![Screen2 of application.](https://github.com/Fionajiangfj/Assignment1_COUNTRIES/blob/main/app/src/main/res/drawable/Screen2.jpg)
+
+**Firestore Database**
+
+![Firestore Database of application.](https://github.com/Fionajiangfj/Assignment1_COUNTRIES/blob/main/app/src/main/res/drawable/firestoreDB.jpg)
