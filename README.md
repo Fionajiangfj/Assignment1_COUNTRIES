@@ -20,7 +20,10 @@ An Android application that displays information about countries of the world.
 2. Each row shows the country name.
 3. Users can tap on the RecyclerView item to remove the country from the user’s favorites list.
 
-**Screenshots**
+**Screen1**
+
 ![Screen1 of application.](https://github.com/Fionajiangfj/Assignment1_COUNTRIES/blob/main/app/src/main/res/drawable/Screen1.jpg)
+
+**Screen2**
 
 ![Screen2 of application.](https://github.com/Fionajiangfj/Assignment1_COUNTRIES/blob/main/app/src/main/res/drawable/Screen2.jpg)
